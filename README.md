@@ -1,6 +1,6 @@
-
-
 # 👋 Hello, I'm Solomon Omasi,and this is securesite ♻️ 🔐
+
+![Solomon](https://avatars.githubusercontent.com/u/173850990?v=4)
 
 ## About Me
 I am a beginner in website development and cybersecurity, passionate about learning and growing in both fields.
