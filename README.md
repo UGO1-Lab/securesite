@@ -16,8 +16,8 @@ We are more alike than different—I enjoy learning about what others fear too! 
 
 Join me on this exciting learning journey!
 
-
-## Introduction
+![Security logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvJkPHYdSB2StbLwgzdi6UFjYFB2xUvwcdaQ&s)
+## Introduction to securesite
 Welcome to **securesite ♻️ 🔐**, my first website project. This README provides an overview of the project, its features, installation instructions, and usage guidelines.
 
 ## Features
