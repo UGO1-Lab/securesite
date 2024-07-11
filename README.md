@@ -6,7 +6,7 @@
 I am a beginner in website development and cybersecurity, passionate about learning and growing in both fields.
 
 ## Brief Bio
-I am enthusiastic about building secure and user-friendly websites.
+I am enthusiastic about building secure and user-friendly websites and webapps.
 
 ## Goals
 My goal is to become proficient in website development and cybersecurity, aiming for excellence in both areas.
